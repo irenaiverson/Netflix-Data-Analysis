@@ -1,4 +1,4 @@
-# Netflix Data Analysis - Tableau Portfolio Project
+# Netflix Data Analysis in Tableau
 
 ## Project Overview
 
